@@ -3,6 +3,7 @@
 ## to install
 
 npm i
+
 npm run start
 
 ## see the demo
