@@ -1,12 +1,16 @@
 # JustinGPT
 
-## to install
-
+### to install
+```
 npm i
+```
 
+### to serve.  Default Port 3000
+```
 npm run start
+```
 
-## see the demo
+### see the demo
 
 <a target="_blank" href="https://demo.theliberry.com">Click me for demo</a>
 Because the API is fee-based, 
