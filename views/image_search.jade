@@ -1,0 +1,9 @@
+extends layout
+
+block content
+	h1= title
+	p Welcome to #{title}
+		form(action='/image', method='get')
+			input(type='text', name='gpt', id='gpt-input', value='')
+			input(type='submit')
+	
